@@ -1,4 +1,7 @@
 # Hands-On Lab
+
+From: https://github.com/AdminTurnedDevOps/PearsonCourses/blob/main/Helm-Charts-For-Kubernetes/Segment2/lab.md
+
 ## Create A Helm Chart
 1. Create a Helm Chart with the following command
 `helm create mychart`
